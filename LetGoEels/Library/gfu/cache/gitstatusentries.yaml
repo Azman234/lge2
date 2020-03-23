@@ -1,0 +1,1006 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-17T23:43:58.439+13:00
+  initializedAtString: 2020-03-17T23:43:58.439+13:00
+  entries:
+  - path: Assets\eels.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\eels.png
+    projectPath: Assets\eels.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\eels.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\eels.png.meta
+    projectPath: Assets\eels.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images.meta
+    projectPath: Assets\Images.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif"
+    projectPath: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif.meta"
+    projectPath: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16012_gif_\xA6\xAB\xA9\xB0-\xB0_aigei_com.gif.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    projectPath: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    projectPath: "Assets\\Images\\\xA6_-\xC1\xCB+\xC1--\xC0\xA4\xB1\xA6\xAF+=UI-+\xA6\xDB-\xCF\xA6--16029_png_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA602(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA6-\xC1\xD1\xCE-\xC8\xA605(_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-\xA2\xA6\xA6\xA6(tuto_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    fullPath: "D:\\GitHub\\lge2\\LetGoEels\\Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    projectPath: "Assets\\Images\\\xA6\xBD\xA6\xB7-\xCD\xCB+\xED\xC2\xC0+\xA4\xDE+++\xAB\xED\xC0UI+\xBD\xA6\xCE\xCE-\xC8\xA6+\xA6\xA6\xA5\xA6+\xA6\xCF\xF0\xBA-btn_7_\xA6+_\xA6\xAB\xA9\xB0-\xB0_aigei_com.png.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive.meta
+    projectPath: Assets\Images\Archive.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Game Waterfalls and Pipes Board with Bleed.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Game Waterfalls and Pipes
+      Board with Bleed.png
+    projectPath: Assets\Images\Archive\Game Waterfalls and Pipes Board with Bleed.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Game Waterfalls and Pipes Board with Bleed.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Game Waterfalls and Pipes
+      Board with Bleed.png.meta
+    projectPath: Assets\Images\Archive\Game Waterfalls and Pipes Board with Bleed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\GameSweetener.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\GameSweetener.png
+    projectPath: Assets\Images\Archive\GameSweetener.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\GameSweetener.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\GameSweetener.png.meta
+    projectPath: Assets\Images\Archive\GameSweetener.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\LetsGoEelsLvl1 Card Backs with Bleed.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\LetsGoEelsLvl1 Card Backs
+      with Bleed.png
+    projectPath: Assets\Images\Archive\LetsGoEelsLvl1 Card Backs with Bleed.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\LetsGoEelsLvl1 Card Backs with Bleed.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\LetsGoEelsLvl1 Card Backs
+      with Bleed.png.meta
+    projectPath: Assets\Images\Archive\LetsGoEelsLvl1 Card Backs with Bleed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Pipes.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Pipes.png
+    projectPath: Assets\Images\Archive\Pipes.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Pipes.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Pipes.png.meta
+    projectPath: Assets\Images\Archive\Pipes.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Taniwha.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Taniwha.png
+    projectPath: Assets\Images\Archive\Taniwha.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Taniwha.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Taniwha.png.meta
+    projectPath: Assets\Images\Archive\Taniwha.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Waterfall.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Waterfall.png
+    projectPath: Assets\Images\Archive\Waterfall.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Archive\Waterfall.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Archive\Waterfall.png.meta
+    projectPath: Assets\Images\Archive\Waterfall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Die 6.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Die 6.png
+    projectPath: Assets\Images\Die 6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Die 6.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Die 6.png.meta
+    projectPath: Assets\Images\Die 6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels1.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels1.png
+    projectPath: Assets\Images\eels1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels1.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels1.png.meta
+    projectPath: Assets\Images\eels1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels2.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels2.png
+    projectPath: Assets\Images\eels2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels2.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels2.png.meta
+    projectPath: Assets\Images\eels2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels3.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels3.png
+    projectPath: Assets\Images\eels3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels3.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels3.png.meta
+    projectPath: Assets\Images\eels3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels4.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels4.png
+    projectPath: Assets\Images\eels4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\eels4.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\eels4.png.meta
+    projectPath: Assets\Images\eels4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Game Waterfalls and Pipes Board with Bleed.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Game Waterfalls and Pipes Board
+      with Bleed.png
+    projectPath: Assets\Images\Game Waterfalls and Pipes Board with Bleed.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Game Waterfalls and Pipes Board with Bleed.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Game Waterfalls and Pipes Board
+      with Bleed.png.meta
+    projectPath: Assets\Images\Game Waterfalls and Pipes Board with Bleed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\GameSweetener.psd
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\GameSweetener.psd
+    projectPath: Assets\Images\GameSweetener.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\GameSweetener.psd.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\GameSweetener.psd.meta
+    projectPath: Assets\Images\GameSweetener.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Green Leaf.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Green Leaf.png
+    projectPath: Assets\Images\Green Leaf.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Green Leaf.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Green Leaf.png.meta
+    projectPath: Assets\Images\Green Leaf.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Green Pawn.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Green Pawn.png
+    projectPath: Assets\Images\Green Pawn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Green Pawn.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Green Pawn.png.meta
+    projectPath: Assets\Images\Green Pawn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kahikatea1 (2).png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kahikatea1 (2).png
+    projectPath: Assets\Images\Kahikatea1 (2).png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kahikatea1 (2).png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kahikatea1 (2).png.meta
+    projectPath: Assets\Images\Kahikatea1 (2).png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kahikatea1.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kahikatea1.png
+    projectPath: Assets\Images\Kahikatea1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kahikatea1.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kahikatea1.png.meta
+    projectPath: Assets\Images\Kahikatea1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kanuka4.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kanuka4.png
+    projectPath: Assets\Images\Kanuka4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kanuka4.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kanuka4.png.meta
+    projectPath: Assets\Images\Kanuka4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kanuka7.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kanuka7.png
+    projectPath: Assets\Images\Kanuka7.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kanuka7.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kanuka7.png.meta
+    projectPath: Assets\Images\Kanuka7.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kowhai3.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kowhai3.png
+    projectPath: Assets\Images\Kowhai3.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Kowhai3.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Kowhai3.png.meta
+    projectPath: Assets\Images\Kowhai3.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\LetsGoEelsLvl1 Card Backs with Bleed.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\LetsGoEelsLvl1 Card Backs with
+      Bleed.png
+    projectPath: Assets\Images\LetsGoEelsLvl1 Card Backs with Bleed.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\LetsGoEelsLvl1 Card Backs with Bleed.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\LetsGoEelsLvl1 Card Backs with
+      Bleed.png.meta
+    projectPath: Assets\Images\LetsGoEelsLvl1 Card Backs with Bleed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\LetsGoEelsLvl1 Hazard Card Backs with Bleed.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\LetsGoEelsLvl1 Hazard Card Backs
+      with Bleed.png
+    projectPath: Assets\Images\LetsGoEelsLvl1 Hazard Card Backs with Bleed.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\LetsGoEelsLvl1 Hazard Card Backs with Bleed.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\LetsGoEelsLvl1 Hazard Card Backs
+      with Bleed.png.meta
+    projectPath: Assets\Images\LetsGoEelsLvl1 Hazard Card Backs with Bleed.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Level2TutorialWorking.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Level2TutorialWorking.png
+    projectPath: Assets\Images\Level2TutorialWorking.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Level2TutorialWorking.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Level2TutorialWorking.png.meta
+    projectPath: Assets\Images\Level2TutorialWorking.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Nikau6.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Nikau6.png
+    projectPath: Assets\Images\Nikau6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Nikau6.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Nikau6.png.meta
+    projectPath: Assets\Images\Nikau6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Pipes.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Pipes.png
+    projectPath: Assets\Images\Pipes.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Pipes.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Pipes.png.meta
+    projectPath: Assets\Images\Pipes.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Pipes.psd
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Pipes.psd
+    projectPath: Assets\Images\Pipes.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Pipes.psd.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Pipes.psd.meta
+    projectPath: Assets\Images\Pipes.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri1.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri1.png
+    projectPath: Assets\Images\Puriri1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri1.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri1.png.meta
+    projectPath: Assets\Images\Puriri1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri2.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri2.png
+    projectPath: Assets\Images\Puriri2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri2.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri2.png.meta
+    projectPath: Assets\Images\Puriri2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri4.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri4.png
+    projectPath: Assets\Images\Puriri4.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri4.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri4.png.meta
+    projectPath: Assets\Images\Puriri4.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri6.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri6.png
+    projectPath: Assets\Images\Puriri6.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Puriri6.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Puriri6.png.meta
+    projectPath: Assets\Images\Puriri6.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Purple Pawn.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Purple Pawn.png
+    projectPath: Assets\Images\Purple Pawn.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Purple Pawn.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Purple Pawn.png.meta
+    projectPath: Assets\Images\Purple Pawn.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Taniwha.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Taniwha.png
+    projectPath: Assets\Images\Taniwha.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Taniwha.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Taniwha.png.meta
+    projectPath: Assets\Images\Taniwha.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Taniwha.psd
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Taniwha.psd
+    projectPath: Assets\Images\Taniwha.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Taniwha.psd.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Taniwha.psd.meta
+    projectPath: Assets\Images\Taniwha.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\TREE.jpg
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\TREE.jpg
+    projectPath: Assets\Images\TREE.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\TREE.jpg.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\TREE.jpg.meta
+    projectPath: Assets\Images\TREE.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Waterfall.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Waterfall.png
+    projectPath: Assets\Images\Waterfall.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Waterfall.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Waterfall.png.meta
+    projectPath: Assets\Images\Waterfall.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Waterfall.psd
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Waterfall.psd
+    projectPath: Assets\Images\Waterfall.psd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Images\Waterfall.psd.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Images\Waterfall.psd.meta
+    projectPath: Assets\Images\Waterfall.psd.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Scenes.meta
+    projectPath: Assets\Scenes.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Scenes\Menu.unity
+    projectPath: Assets\Scenes\Menu.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Menu.unity.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Scenes\Menu.unity.meta
+    projectPath: Assets\Scenes\Menu.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: D:\GitHub\lge2\LetGoEels\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Packages\manifest.json
+    fullPath: D:\GitHub\lge2\LetGoEels\Packages\manifest.json
+    projectPath: Packages\manifest.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\AudioManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\AudioManager.asset
+    projectPath: ProjectSettings\AudioManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ClusterInputManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\ClusterInputManager.asset
+    projectPath: ProjectSettings\ClusterInputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\DynamicsManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\DynamicsManager.asset
+    projectPath: ProjectSettings\DynamicsManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\GraphicsSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\GraphicsSettings.asset
+    projectPath: ProjectSettings\GraphicsSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\InputManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NavMeshAreas.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\NavMeshAreas.asset
+    projectPath: ProjectSettings\NavMeshAreas.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\NetworkManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\NetworkManager.asset
+    projectPath: ProjectSettings\NetworkManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\Physics2DSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\Physics2DSettings.asset
+    projectPath: ProjectSettings\Physics2DSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\PresetManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\PresetManager.asset
+    projectPath: ProjectSettings\PresetManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\ProjectVersion.txt
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\ProjectVersion.txt
+    projectPath: ProjectSettings\ProjectVersion.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TagManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\TimeManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\TimeManager.asset
+    projectPath: ProjectSettings\TimeManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\VFXManager.asset
+    fullPath: D:\GitHub\lge2\LetGoEels\ProjectSettings\VFXManager.asset
+    projectPath: ProjectSettings\VFXManager.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
