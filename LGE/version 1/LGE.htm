@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+	<style type = "text/css">
+		
+		
+		div.dice
+		{
+			float:left;
+			width:32px;
+			background:#F5F5F5;
+			border:#999 1px solid;
+			padding:10px;
+			font-size:24px;
+			test-align:center;
+			margin:5px;
+		}
+	</style>
+		
+	</head>
+
+
+<body>
+
+    <!--<div><img src="Game_Board.png"> </div> -->
+	<!--<div><img src ="eels5.png"> </div>  -->
+
+	<div id = "die" class = "dice">0</div>
+	<button type="button" onclick="rollDice()">Roll the Dice </button>
+    
+    <p id="diceRoll">Please roll the dice.</p>
+    
+    
+	
+		<img class = "hidden" id ="gameBoard" src = "Game_Board.png" />
+		<img class = "hidden" id = "eel1" src ="eels1.png" />
+    	
+		<canvas id="boardCanvas" width="2000" height="1000"> </canvas> 
+		<canvas id= "eelCanvas1" width="2000" height="1000"> </canvas>
+		<canvas id= "eelCanvas2" width="100" height="100"> </canvas>
+
+<script>
+
+	function move()
+	{
+	
+	}
+	
+	function draw()
+	{
+		var drawBoardCanvas = document.getElementById("boardCanvas");
+		var boardContex = drawBoardCanvas.getContext("2d");
+		var board = document.getElementById("gameBoard");
+		boardContex.drawImage(board, 0, 0, canvas.width, canvas.height);
+		
+	/*  https://www.dummies.com/web-design-development/site-development/how-to-include-images-on-your-web-page-with-html5-canvas/ */
+		
+		var drawEelCanvas1 = document.getElementById("eelCanvas1");
+		var eelContex1 = drawEelCanvas1.getElementById("2d");
+		var eel1 = document.getElementById("eel1");
+		drawEelCanvas1.drawImage(eel1, 0, 0,canvas.width,canvas.height);
+
+		/*
+		var imageEel1 = new Image(); 
+		imageEel1 = document.getElementById("eel1")
+		imageEel1.src = "eels1.png";
+		con.drawImage(imageEel1, 1, 1, canvas.width,canvas.height);
+		*/
+	}
+
+	function rollDice() 
+	{
+		var num = Math.floor(Math.random() * 6 +1);
+		var die1 = document.getElementById("die");
+  		die1.innerHTML = num;
+		document.getElementById("diceRoll").innerHTML= "You rolled a: " + num;
+		move(num);
+	}
+
+	function move(num)
+	{
+		var con = drawing.getContext("2d");
+		con.drawImage("eels1.png",30,30,num,num);
+	}
+
+</script>
+
+</body>
+
+</html>

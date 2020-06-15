@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<style>
+	canvas
+		{
+			border:1px solid #d3d3d3;
+			background-color: #f4f4f4;
+		}
+		div.dice
+		{
+			float:left;
+			width:32px;
+			background:#F5F5F5;
+			border:#999 1px solid;
+			padding:10px;
+			font-size:24px;
+			test-align:center;
+			margin:5px;
+		}
+	</style>
+</head>
+<body onload="startGame()">
+
+	<div id = "die" class = "dice">0</div>
+	<button type="button" onclick="rollDice()">Roll the Dice </button>
+    
+    <p id="diceRoll">Please roll the dice.</p>
+	<p id = "dialogBox">----</p>
+
+	<img id ="gameBoard" src = "Game_Board.png" />
+	<img id = "eel1" src ="eels1.png" />
+
+<script>
+
+	var myGamePiece;
+	var myBackground;
+	var playerPosition = 0;
+	var inverntory;
+	var boardNodes = new Array(55);
+
+	//creates the nodes on the boardNodes
+	//each node has an x and y value and a card associtated with it
+	function initialiseBoard()
+	{
+		for(var i=0; i < boardNodes.length; i++)
+		{
+			boardNodes[i] = new Array(3);
+		}
+	}
+	//roll the dice function
+	//rolls the dice and passes the dice number to move()
+	function rollDice() 
+	{
+		var num = Math.floor(Math.random() * 6 +1);
+		var die1 = document.getElementById("die");
+  		die1.innerHTML = num;
+		document.getElementById("diceRoll").innerHTML= "You rolled a: " + num;
+		move(num);
+		document.getElementById("dialogBox").innerHTML= "Your Position is: " + this.Position;
+	}
+
+	function startGame() 
+	{
+		myBackground = new component(656, 270, document.getElementById("Game_Board"), 0, 0, "image");
+		myGamePiece = new component(30, 30, document.getElementById("eel1").src, 10, 120, "image");
+   
+		myGameArea.start();
+	}
+
+	var myGameArea = 
+	{
+		canvas : document.createElement("canvas"),
+		start : function() 
+		{
+			this.canvas.width = 500;
+			this.canvas.height = 686;
+			this.context = this.canvas.getContext("2d");
+			document.body.insertBefore(this.canvas, document.body.childNodes[0]);
+			this.frameNo = 0;
+			this.interval = setInterval(updateGameArea, 20);
+		},
+		clear : function() 
+		{
+			this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
+		},
+			stop : function() 
+			{
+				clearInterval(this.interval);
+			}
+		}
+
+	function component(width, height, color, x, y, type)
+	{
+		this.type = type;
+		if (type == "image")
+		{
+			this.image = new Image();
+			this.image.src = color;
+		}
+
+		this.width = width;
+		this.height = height;
+		this.speedX = 0;
+		this.speedY = 0;    
+		this.x = x;
+		this.y = y;    
+		
+		this.update = function()
+		{
+			ctx = myGameArea.context;
+			if (type == "image") 
+			{
+				ctx.drawImage(this.image, 
+                this.x, 
+                this.y,
+                this.width, this.height);
+			}
+			else 
+			{
+				ctx.fillStyle = color;
+				ctx.fillRect(this.x, this.y, this.width, this.height);
+			}
+		}
+		
+		//sets the images x and y values of the players on the board
+		this.newPos = function() 
+		{
+			this.x = this.boardnodes[this.playerPosition][0];
+			this.y = this.boardnodes[this.playerPosition][1];        
+		}    
+	}
+
+	function updateGameArea()
+	{
+		myGameArea.clear();
+		myBackground.newPos();    
+		myBackground.update();
+		myGamePiece.newPos();    
+		myGamePiece.update();
+	}
+
+	function move(spaces) 
+	{
+	    for(i = 0; i < spaces; i++)
+		{
+			this.playerPosition += 1;
+			this.x = boardNodes[playerPosition][0];
+			this.y = boardNodes[playerPosition][1];
+			updateGameArea();
+		}
+
+		//waterfalls 
+		if(this.playerPosition == 4)
+		{
+			this.playerPosition = 17;
+		}
+		else if(this.playerPosition == 8)
+		{
+			this.playerPosition =19;
+		}
+
+		updateGameArea();
+
+		this.inventory += boardNodes[playerPosition][2];
+
+		document.getElementById("dialogBox").innerHTML= "Your Position is: " + this.Position;
+	}
+
+	function clearmove()
+	{
+		myGamePiece.image.src = "smiley.gif";
+		myGamePiece.speedX = 0; 
+		myGamePiece.speedY = 0; 
+	}
+</script>
+
+</body>
+</html>
